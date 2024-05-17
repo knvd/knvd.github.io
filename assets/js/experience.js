@@ -23,7 +23,7 @@ const exp = [
     cardImage: "assets/images/experience-page/cluster (Custom).jpg",
     place: "Cluster University Srinagar (GCW), Srinagar, J&K – India,190001",
     time: "(March, 2023 - December, 2023)",
-    desp: "<li>Course Taught : Problem Solving through C,Information Technology: Concepts and Applications, and Java Programming Language.</li><li>Developed quizzes, exams, learning material,etc.</li><li>Revised the syllabus to meet accreditation standards</li><li>Actively engaged in the Examination related activities like Paper Setting, Paper Evaluation, Exam Invigilation, etc.</li><li>Invigilated various national level exams like NEET, UPSC recruitment exams, state level recruitment tests, etc.</li>",
+    desp: "<li>Department: Information Technology</li><li>Course Taught : Problem Solving through C,Information Technology: Concepts and Applications, and Java Programming Language.</li><li>Developed quizzes, exams, learning material,etc.</li><li>Revised the syllabus to meet accreditation standards</li><li>Actively engaged in the Examination related activities like Paper Setting, Paper Evaluation, Exam Invigilation, etc.</li><li>Invigilated various national level exams like NEET, UPSC recruitment exams, state level recruitment tests, etc.</li>",
     
   },
   {
@@ -32,6 +32,14 @@ const exp = [
     place: "Infoscience Labs, Corporation 98 The Green, Ste A Dover, DE 19901, USA.",
     time: "(Jan , 2023 - December, 2023)",
     desp: "<li>Worked as a PHP Web developer for a Cold Emailing Web Software “SendCrux” (Laravel 9)</li>",
+    
+  },
+  {
+    title: "Lecturer",
+    cardImage: "assets/images/experience-page/icsc (Custom).jpg",
+    place: "Islamia College of Science and Commerce (ICSC) Hawal Srinagar J&K, India",
+    time: "(April , 2018 - May, 2019)",
+    desp: "<li>Department: Information Technology</li><li>Lectured B.Sc. IT, BCA , BCOM and BBA Classes.</li><li>Subjects Taught: Open-Source Technologies, Database Management System, Computer Fundamentals, Computer programming and E-commerce.</li> <li>Actively engaged in the Examination related activities like Paper Setting, Paper Evaluation, Exam Invigilation and College Committees.</li>",
     
   },
 ];
