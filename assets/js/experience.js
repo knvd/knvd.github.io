@@ -12,7 +12,7 @@ const exp = [
     desp: "<li>Courses Taught: </li> <li>Responsibilities: </li>",
   },
   {
-    title: "Assistant Professor",
+    title: "Assistant Professor (C)",
     cardImage: "assets/images/experience-page/KU (Custom).jpg",
     place: "University of Kashmir, South Campus Anantnag, J&K –India, 192101.",
     time: "(Mar - May, 2024)",
