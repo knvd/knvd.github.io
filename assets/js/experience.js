@@ -36,7 +36,7 @@ const exp = [
   },
   {
     title: "Lecturer",
-    cardImage: "assets/images/experience-page/icsc (Custom).jpg",
+    cardImage: "assets/images/experience-page/icsc (Custom).png",
     place: "Islamia College of Science and Commerce (ICSC) Hawal Srinagar J&K, India",
     time: "(April , 2018 - May, 2019)",
     desp: "<li>Department: Information Technology</li><li>Lectured B.Sc. IT, BCA , BCOM and BBA Classes.</li><li>Subjects Taught: Open-Source Technologies, Database Management System, Computer Fundamentals, Computer programming and E-commerce.</li> <li>Actively engaged in the Examination related activities like Paper Setting, Paper Evaluation, Exam Invigilation and College Committees.</li>",
